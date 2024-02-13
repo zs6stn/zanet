@@ -1,8 +1,8 @@
 ---
-title: ZA-Net Implementation for the Sandton Amateur Radio Club's VHF Repeater
+title: Sandton Amateur Radio Club - VHF Repeater - ZA-Net Implementation
 layout: tag
 author: justin
-date: 2021-08-05
+date: 2024-02-10
 # categories: [Sandton Amateur Radio Club, Repeaters]
 tags: [Club, Repeaters, VHF, AllStarLink-Node]
 toc: false
@@ -13,14 +13,11 @@ Frequencies
 
 Our Repeaters are as follows:
 - 2 M Analog [145.700 MHz]   Echolink ZS6STN-R
-- 2 M Dstar [145.5875 MHz]
-- 70 CM DMR [438.35000 MHZ]
-- 70 CM Analog [438.800 MHz]  Echolink ZS6STN-L
-
+- EchoLink CallSign ZS6STN-R (Node No:901594)
 
 High Site
 ---
 
-Our Highsite is hosted at the Bryanston water tower.
+The Sandton Amateur Radio Club's High Site is hosted at the Bryanston water tower.
 
 ![Bryanston  Highsite](/assets/images/repeaters/HighSite.jpg)
