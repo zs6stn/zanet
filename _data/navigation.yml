@@ -29,7 +29,7 @@ repeaters:
 zanet:
   - title: "About ZA-Net"
     children:
-      - title: "ZA-Net Repeater Network"
+      - title: "ZA-Net Repeater Network" 
         url: "/about/zanet/"
       # - title: "What is Amateur Radio (HAM)"
       #   url: "/about/ham/"
