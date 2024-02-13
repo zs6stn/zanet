@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-    description: Information about SARC
+    description: Information about ZA-Net
   - title: "Repeaters"
     url: /repeaters/
     description: Our Repeaters
@@ -11,10 +11,10 @@ main:
     description: TechTalks and Blog Posts
   # - title: "Search"
   #   url: /search/
-  #   description: "Search SARC"
+  #   description: "Search ZA-Net"
 
 repeaters:
-  - title: "SARC Repeaters"
+  - title: "ZA-Net Repeaters"
     children:
       - title: "Our Repeaters"
         url: /repeaters/
@@ -35,23 +35,23 @@ repeaters:
 zanet:
   - title: "About ZA-Net"
     children:
-      - title: "Sandton Amateur Radio Club"
+      - title: "ZA-Net Repeater Network"
         url: "/about/zanet/"
-      - title: "What is Amateur Radio (HAM)"
-        url: "/about/ham/"
-      - title: "Radio Amateur Examination (RAE)"
-        url: "/about/rae/"
-      - title: "Worked All ZS Award (WAZS)"
-        url: "/about/wazs"
-      - title: ZA-Net YouTube Channel
-        url: "/about/youtube/"
-      - title: "Weekly Bulletins"
-        url: "/about/bulletins/"
-      - title: "Committee Members"
-        url: "/about/committee/"
-      - title: "Club Constitution"
-        url: "/about/constitution"
-      - title: "Join the Club"  
+      # - title: "What is Amateur Radio (HAM)"
+      #   url: "/about/ham/"
+      # - title: "Radio Amateur Examination (RAE)"
+      #   url: "/about/rae/"
+      # - title: "Worked All ZS Award (WAZS)"
+      #   url: "/about/wazs"
+      # - title: ZA-Net YouTube Channel
+      #   url: "/about/youtube/"
+      # - title: "Weekly Bulletins"
+      #   url: "/about/bulletins/"
+      # - title: "ZA-Net Team Members"
+      #   url: "/about/members/"
+      # - title: "Club Constitution"
+      #   url: "/about/constitution"
+      - title: "Join the Network"  
         url: "/about/join/"
       - title: "Contact Details"
         url: "/about/contact/"
