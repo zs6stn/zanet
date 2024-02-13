@@ -23,4 +23,4 @@ High Site
 
 Our Highsite is hosted at the Bryanston water tower.
 
-![Bryanston  Highsite](/assets/images/repeaters/HighSite.jpg)
+![Bryanston  Highsite](https://www.zs6stn.org.za/assets/images/repeaters/HighSite.jpg)

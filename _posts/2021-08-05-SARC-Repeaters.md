@@ -20,4 +20,4 @@ High Site
 
 The Sandton Amateur Radio Club's High Site is hosted at the Bryanston water tower.
 
-![Bryanston  Highsite](https://www.zst6tn.org.za/assets/images/repeaters/HighSite.jpg)
+![Bryanston  Highsite](https://www.zs6stn.org.za/assets/images/repeaters/HighSite.jpg)
