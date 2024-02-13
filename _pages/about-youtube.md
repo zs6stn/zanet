@@ -4,7 +4,7 @@ layout: tag
 permalink: /about/youtube/
 taxonomy: markup
 sidebar:
-  nav: "sarc"
+  nav: "zanet"
 classes: wide
 ---
 

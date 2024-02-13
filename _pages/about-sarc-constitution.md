@@ -4,7 +4,7 @@ layout: tag
 permalink: /about/constitution
 taxonomy: tag
 sidebar:
-  nav: "sarc"
+  nav: "zanet"
 classes: wide
 ---
 

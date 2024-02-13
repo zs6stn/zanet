@@ -1,10 +1,10 @@
 ---
-title: Sandton Amateur Radio Club
+title: ZA-Net
 layout: tag
-permalink: /about/sarc/
+permalink: /about/zanet/
 taxonomy: markup
 sidebar:
-  nav: "sarc"
+  nav: "zanet"
 classes: wide
 ---
 
@@ -16,7 +16,7 @@ We host Radio Amateur Exam courses and social events such as Fox Hunting and Ant
 <h2 data-toc-skip>Repeaters</h2>
 We have several repeaters in Johannesburg, see more details about our [Repeaters](/repeaters/).
 
-<h2 data-toc-skip>About SARC</h2>
+<h2 data-toc-skip>About ZA-Net</h2>
 The club fosters friendships between radio amateurs and promotes the amateur radio hobby. The club also provides an excellent radio infrastructure by maintaining a high-quality repeater park at one of the highest sites in Johannesburg offering 2 meter, 70 cm and Dstar communication facilities that are available as backup communications in emergencies and during disasters.
 
-The Sandton Amateur Radio club is affiliated with the [South African Radio League](http://www.sarl.org.za/){:target="_blank"}. 
+ZA-Net is a [Sandton Amateur Radio Club Initative](http://www.zs6stn.org.za/){:target="_blank"}.

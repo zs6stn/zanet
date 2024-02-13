@@ -4,7 +4,7 @@ title: "Terms and Privacy Policy"
 layout: tag
 last_modified_at: 2016-06-06
 sidebar:
-  nav: "sarc"
+  nav: "zanet"
 toc: true
 classes: wide
 ---

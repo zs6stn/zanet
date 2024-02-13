@@ -5,7 +5,7 @@ permalink: /about/bulletins/schedule
 classes: wide
 taxonomy: markup
 sidebar:
-  nav: "sarc"
+  nav: "zanet"
 classes: wide
 ---
 

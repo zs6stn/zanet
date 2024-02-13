@@ -4,7 +4,7 @@ layout: tag
 permalink: /about/join/
 taxonomy: markup
 sidebar:
-  nav: "sarc"
+  nav: "zanet"
 classes: wide
 ---
 

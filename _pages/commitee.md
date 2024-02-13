@@ -7,7 +7,7 @@ entries_layout: grid
 classes: wide
 taxonomy: markup
 sidebar:
-  nav: "sarc"
+  nav: "zanet"
 redirect_from:
   - /committee/
 ---

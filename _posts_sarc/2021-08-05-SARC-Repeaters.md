@@ -1,10 +1,10 @@
 ---
-title: ZA-Net Implementation for the Sandton Amateur Radio Club's VHF Repeater
+title: ZA-Net Repeaters
 layout: tag
 author: justin
 date: 2021-08-05
 # categories: [Sandton Amateur Radio Club, Repeaters]
-tags: [Club, Repeaters, VHF, AllStarLink-Node]
+tags: [Club, Repeaters, VHF, UHF, DMR, D-Star]
 toc: false
 ---
 
